@@ -1,0 +1,67 @@
+# jemdoc: menu{MENU}{talks.html}, analytics{UA-59719970-1}
+= Sudeep Kamath - Talks
+
+== Talk videos
+
+- "Learning distributions from samples" at the
+[http://simons.berkeley.edu/workshops/schedule/857 Information Theory,
+Learning and Big Data workshop] hosted at the [http://simons.berkeley.edu/ Simons Institute] (March 2015). For a five-minute version of the talk with more results, please look at my talk from [http://videolectures.net/colt2015_kamath_learning_distributions/ COLT 2015].
+
+#includeraw{simons_talk2015.html}
+
+\n
+
+- "Improving the cutset bound" at the
+[http://www.birs.ca/events/2015/5-day-workshops/15w5130 Between
+Shannon and Hamming: Network Information Theory and Combinatorics]
+workshop hosted at the [http://www.birs.ca/ Banff International Research Station] (March 2015).
+
+
+#includeraw{banff_talk2015.html}
+
+
+
+# == Recent talks
+
+# Two-Unicast is Hard, ISIT 2014, Hawaii, 3Jul2014
+# On Information Flow in Wireline and Wireless Networks, WITMSE 2014, Hawaii, 6Jul2014
+# Improving the cutset bound, Princeton seminar, 24Sep2014
+# Chop and Roll: Improving the Cutset Bound, Allerton 2014, 2Oct2014
+# A tale of two measures, Purdue NSF site visit, 8Dec2014
+# A tale of two measures, TIFR, 2Jan2015
+# A tale of two measures, IIT Bombay, 7Jan2015
+# Asymptotic minimax $f$-divergence risk, ITA, 5Feb2015
+# Improving the cutset bound, Banff International Research Station, 3Mar2015
+# A Tale of Two Measures, UC Berkeley , 11Mar2015
+# A Tale of Two Measures, Stanford, 12Mar2015
+# Learning Distributions From Samples, Berkeley, Simons Institute, 17Mar2015
+# Learning Distributions From Samples, MIT, Gauri Joshi's group meeting, 21May2015
+# Learning Distributions From Samples, Boston University, 22May2015
+# Learning Distributions From Samples, Bell Labs, 27May2015
+
+
+
+#- /Sudeep Kamath/, [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam]\n
+#*Non-interactive Simulation of Joint Distributions: The Hirschfeld-Gebelein-{{R&eacute;nyi}} Maximal Correlation and the Hypercontractivity Ribbon* [http://www.princeton.edu/~sukamath/papers/non_interactive_simulation_slides_Kamath_Anantharam.pdf \[Talk slides\]]\n
+#Proceedings of the 50th Annual Allerton Conference on Communications, Control and Computing 2012, Monticello, Illinois.
+
+#- /Sudeep Kamath/, [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam]\n
+#*A new dual to the {{G&aacute;cs-K&ouml;rner}} common information defined via the Gray-Wyner system*  [http://www.princeton.edu/~sukamath/papers/Dual_slides_Kamath_Anantharam.pdf \[Talk slides\]]\n
+#Proceedings of the 48th Annual Allerton Conference on Communications, Control and Computing 2010, Monticello, Illinois.
+
+~~~
+{On preparing and giving talks}
+[http://www.cs.berkeley.edu/~jrs/speaking.html Some great advice here]. A couple of other concrete ideas I've found useful:
+- /Prefer speaking loudly away from the mic rather than softly in to the mic./
+#-- A loud voice helps better communicate the excitement you feel about your work. Especially useful if you are a soft-spoken person.
+#- /Record your practice talk and hear it out again./
+#-- I use the Screen Recording feature in Quicktime Player on Mac OS for this.
+- /Put the effort to structure your talk into a coherent story./
+#-- People respond viscerally to stories, just as they do to pictures, history, and quotes.
+#- /Fit the talk to your personality./
+#-- Develop your own style of talk suited to the kind of things you consider important, and the kind of humor you enjoy.
+
+For those who wish to experiment a bit, some advice [http://www.scottaaronson.com/blog/?p=414 here].
+
+~~~
+

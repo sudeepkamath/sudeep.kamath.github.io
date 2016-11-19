@@ -1,0 +1,124 @@
+# jemdoc: menu{MENU}{misc.html}, analytics{UA-59719970-1}
+= Sudeep Kamath -- Miscellaneous
+
+== My kid brother 
+
+#~~~
+#{}{img_left}{http://www.princeton.edu/~sukamath/pics/collage_small.jpg}{Sudeep and Pritish, Central Park, NYC}{512}{320}{}
+#~~~
+
+# REMOVED #includeraw{sudeep_pritish_pic.html}
+
+~~~
+{}{img_left}{http://www.princeton.edu/~sukamath/pics/collage_small.jpg}{}{512}{320}{}
+
+[http://www.mit.edu/~pritish/ Pritish Kamath].\n
+
+He once figured out the answer to life, the universe, and everything, but \n
+failed to jot it down. A sharp lad, I gifted him a notepad last birthday.
+~~~
+
+
+\n
+
+
+== One of my favorite proofs in mathematics
+
+The Kneser graph conjecture proved by László Lovász. If you haven't seen it before, and have 15 minutes to spare, check out a simplified proof [http://www.jstor.org/stable/3072460 here].
+
+# REMOVED - by Joshua Greene (who was an undergraduate at Harvey Mudd when he wrote it)
+
+== Story of a combinatorial identity
+
+Here is a [http://www.princeton.edu/~sukamath/papers/combinatorial_identity_SudeepKamath.pdf fun little story] of how I discovered a nice combinatorial identity when I was an undergraduate student intern at Stanford in the summer of 2007: $\sum_{k=0}^n {n\choose k} (k-1)^k (n-k+1)^{n-k-1} = n^n$.
+
+I posted this identity on the Piazza for the CS70 class at UC Berkeley, Spring 2013 offering a prize money of $100. It was successfully solved by one of the undergraduate students and there was substantial effort put by many other students. Through this process, I discovered many different proofs of this identity.
+
+== Music
+
+I dabble at music. I enjoy playing music with friends, and occasionally record using GarageBand. Below is a sample. For more recordings, please see my [https://soundcloud.com/etotheipi10/ soundcloud page].
+
+\n
+
+\n
+
+#includeraw{agneecover.html}
+
+
+== ITA video
+
+My video submission for the ITA workshop 2014 that won the best video award. Henri's voice was provided by [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam].
+
+\n
+
+\n
+
+#includeraw{henri.html}
+
+== Quotes
+
+/Your calendar never lies. All we have is our time. The way we spend our time IS our priorities,/\n
+/IS our "strategy". Your calendar knows what you really care about. Do you?/
+{{-}} Tom Peters\n
+
+/The critics say that in composing The Rake I borrowed from Mozart. I do not borrow from/\n
+/Mozart. I steal from him./
+{{-}} Igor Stravinsky\n
+
+/Take your victories when you get them./
+{{-}} [http://www.math.jhu.edu/~vpingal1/ Vamsi Pingali]\n
+
+/Beware of the man who works hard to learn something, learns it, and
+finds himself no wiser/\n
+/than before. He is full of murderous resentment
+of people who are ignorant without having/\n
+/come by their ignorance the
+hard way./
+{{-}} Kurt Vonnegut, Cat's Cradle
+
+== Links
+
+Academic:
+
+- [https://terrytao.wordpress.com/ Terry Tao's blog]
+
+- [http://www.scottaaronson.com/blog/ Scott Aaronson's blog]
+
+- [http://ergodicity.net/ Anand Sarwate's blog]
+
+- [https://infostructuralist.wordpress.com/ Max Raginsky's blog]
+
+- [http://www.cs.yale.edu/homes/sachdeva/ My buddy and alter ego Sushant Sachdeva]
+
+- [http://www.princeton.edu/ Princeton University]
+
+~~~
+{}{img_left}{http://www.princeton.edu/~sukamath/pics/princeton_tiger_cub.jpg}{}{360}{225}{}
+
+~~~
+
+
+Non-academic:
+
+- [http://xkcd.com/ xkcd]
+
+# - [http://wondermark.com/ Wondermark comics]
+
+- [http://www.pangloss.com/seidel/Shaker/ Shakespearean Insulter]
+
+- [http://www.drones.com/pgw.cgi Random Wodehouse Quote generator]
+
+# - [http://www.overcomingbias.com/ Robin Hanson's blog Overcoming Bias]
+
+# - [http://lesswrong.com/ Less Wrong]
+
+
+
+
+
+# REMOVED BELOW
+
+# == Flipora
+
+# My friend Vijay Krishnan's [http://web.eng.ucsd.edu/~sukamath/flipora.html cool startup].
+

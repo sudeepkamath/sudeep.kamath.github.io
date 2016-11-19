@@ -1,0 +1,131 @@
+# jemdoc: menu{MENU}{pubs_by_topics.html}, analytics{UA-59719970-1}
+= Sudeep Kamath -- Publications by Topics
+
+My [https://scholar.google.com/citations?user=UZK1i4EAAAAJ&hl=en&oi=ao Google Scholar profile].
+
+== Learning and Estimation
+
+
+- /Sudeep Kamath/, [https://www.princeton.edu/~verdu/ Sergio {{Verd&uacute;}}]\n
+*Estimation of entropy rate and {{R&eacute;nyi}} entropy rate for Markov chains* [http://www.princeton.edu/~sukamath/papers/entropy_rate_KamathVerdu.pdf \[pdf\]]\n
+International Symposium on Information Theory 2016
+
+- /Sudeep Kamath/, [http://alon.ucsd.edu/ Alon Orlitsky], [http://simons.berkeley.edu/people/dheeraj-pichapati Dheeraj Pichapati], [http://acsweb.ucsd.edu/~asuresh/ Ananda Theertha Suresh]\n
+*On Learning Distributions from their Samples* [http://www.princeton.edu/~sukamath/papers/learning_dist_KOPS15.pdf \[pdf\]]\n
+Conference on Learning Theory 2015, Paris, France.
+
+
+== Strong Data Processing Inequalities and Hypercontractivity
+
+- /Sudeep Kamath/\n
+*Reverse Hypercontractivity using Information Measures* [http://www.princeton.edu/~sukamath/papers/rhc_info_measures_Kamath.pdf \[pdf\]]\n
+Proceedings of the 53rd Annual Allerton Conference on Communications, Control and Computing 2015, Monticello, Illinois.
+
+- /Sudeep Kamath/, [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam]\n
+*On Non-Interactive Simulation of Joint Distributions* [http://arxiv.org/abs/1505.00769 \[arXiv\]] \n
+/submitted to the IEEE Transactions on Information Theory/
+
+- /Sudeep Kamath/, [http://chandra.ie.cuhk.edu.hk/ Chandra Nair]\n
+*The strong data processing constant for sums of i.i.d. random variables* [http://www.princeton.edu/~sukamath/papers/s_star_iid_KamathNair.pdf \[pdf\]]\n
+International Symposium on Information Theory 2015, Hong Kong
+
+- [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam], [http://sharif.edu/~aminzadeh/ Amin Aminzadeh Gohari], /Sudeep Kamath/, [http://chandra.ie.cuhk.edu.hk/ Chandra Nair]\n
+*On Hypercontractivity and a Data Processing Inequality* [http://www.princeton.edu/~sukamath/papers/hypercontractivity_data_processing_AGKN2014.pdf \[pdf\]] [http://arxiv.org/abs/1304.6133 \[arXiv\]]\n
+International Symposium on Information Theory 2014, Honolulu, Hawaii.
+
+
+- [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam], [http://sharif.edu/~aminzadeh/ Amin Aminzadeh Gohari], /Sudeep Kamath/, [http://chandra.ie.cuhk.edu.hk/ Chandra Nair]\n
+*On Hypercontractivity and the Mutual Information between Boolean functions* [http://www.princeton.edu/~sukamath/papers/mutual_info_boolean_functions_AGKN2013.pdf \[pdf\]]\n
+Proceedings of the 51st Annual Allerton Conference on Communications, Control and Computing 2013, Monticello, Illinois.
+
+- /Sudeep Kamath/, [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam]\n
+*Non-interactive Simulation of Joint Distributions: The Hirschfeld-Gebelein-{{R&eacute;nyi}} Maximal Correlation and the Hypercontractivity Ribbon* [http://www.princeton.edu/~sukamath/papers/non_interactive_simulation_KamathAnantharam.pdf \[pdf\]]\n
+Proceedings of the 50th Annual Allerton Conference on Communications, Control and Computing 2012, Monticello, Illinois.
+
+== Privacy
+
+- Ibrahim Issa, /Sudeep Kamath/, [http://people.ece.cornell.edu/wagner/ Aaron Wagner]\n
+*Maximal Leakage Minimization for The Shannon Cipher System* [http://www.princeton.edu/~sukamath/papers/maximal_leakage_minimization_IKW.pdf \[pdf\]]\n
+International Symposium on Information Theory 2016
+
+- Ibrahim Issa, /Sudeep Kamath/, [http://people.ece.cornell.edu/wagner/ Aaron Wagner]\n
+*An Operational Measure of Information Leakage* [http://www.princeton.edu/~sukamath/papers/maximal_leakage_IKW.pdf \[pdf\]]\n
+50th Annual Conference on Information Sciences and Systems (CISS 2016)
+
+== Network Information Theory
+
+- /Sudeep Kamath/, [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam], [https://web.stanford.edu/~dntse/ David Tse],  [https://engineering.purdue.edu/~chihw/ Chih-Chun Wang]\n
+*The two-unicast problem* [http://arxiv.org/abs/1506.01105 \[arXiv\]] \n
+/submitted to the IEEE Transactions on Information Theory/
+
+
+- /Sudeep Kamath/, [http://circuit.ucsd.edu/~yhk/ Young-Han Kim]\n
+*Chop and Roll: Improving the Cutset Bound* [http://www.princeton.edu/~sukamath/papers/improving_cutset_KamathKim.pdf \[pdf\]]\n
+Proceedings of the 52nd Annual Allerton Conference on Communications, Control and Computing 2014, Monticello, Illinois.
+
+- /Sudeep Kamath/, [https://web.stanford.edu/~dntse/ David Tse],  [https://engineering.purdue.edu/~chihw/ Chih-Chun Wang]\n
+*Two-Unicast is Hard* [http://www.princeton.edu/~sukamath/papers/two_unicast_hard_KamathTseWang.pdf \[pdf\]]\n
+International Symposium on Information Theory 2014, Honolulu, Hawaii.
+
+
+- /Sudeep Kamath/, [https://web.stanford.edu/~dntse/ David Tse]\n
+*On the Generalized Network Sharing bound and edge-cut bounds for network coding* [http://www.princeton.edu/~sukamath/papers/GNS_edge_cut_bounds_KamathTse.pdf \[pdf\]]\n
+International Symposium on Information Theory 2013, Istanbul, Turkey.
+
+- [https://sites.google.com/site/ihsiangw/ I-Hsiang Wang], /Sudeep Kamath/, [https://web.stanford.edu/~dntse/ David Tse]\n
+*Two Unicast Information Flows over Linear Deterministic Networks* [http://www.princeton.edu/~sukamath/papers/two_unicast_linear_deterministic_WangKamathTse.pdf \[pdf\]] [http://arxiv.org/abs/1105.6326 \[arXiv\]]\n
+International Symposium on Information Theory 2011, St. Petersburg, Russia.
+
+
+- /Sudeep Kamath/, [https://web.stanford.edu/~dntse/ David Tse], [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam]\n
+*Generalized Network Sharing outer bound and the Two-Unicast problem* [http://www.princeton.edu/~sukamath/papers/GNS_KamathTseAnantharam.pdf \[pdf\]]\n
+International Symposium on Network Coding (NetCod) 2011, Beijing, China.
+
+
+- /Sudeep Kamath/, [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam]\n
+*A new dual to the {{G&aacute;cs-K&ouml;rner}} common information defined via the Gray-Wyner system* [http://www.princeton.edu/~sukamath/papers/Dual_KamathAnantharam.pdf \[pdf\]]\n
+Proceedings of the 48th Annual Allerton Conference on Communications, Control and Computing 2010, Monticello, Illinois.
+
+
+
+== Multi-commodity Flow, Network Capacity, Approximation Algorithms, Influence Spreading
+
+- Eun Jee Lee, /Sudeep Kamath/, [http://www.ee.princeton.edu/people/faculty/emmanuel-abbe Emmanuel Abbe], [https://www.princeton.edu/~kulkarni/ Sanjeev Kulkarni]\n
+*Spectral Bounds for Independent Cascade Model with Sensitive Edges* [http://www.princeton.edu/~sukamath/papers/spectral_bounds_LKAK.pdf \[pdf\]]\n
+50th Annual Conference on Information Sciences and Systems (CISS 2016)
+
+- [http://chekuri.cs.illinois.edu/ Chandra Chekuri], /Sudeep Kamath/, [http://www.ee.washington.edu/people/faculty/kannan_sreeram/ Sreeram Kannan], [http://www.ifp.illinois.edu/~pramodv/ Pramod Viswanath]\n
+*Delay-constrained unicast and the triangle-cast problem* [http://www.princeton.edu/~sukamath/papers/delay_constrained_unicast_CKKV15.pdf \[pdf\]]\n
+International Symposium on Information Theory 2015, Hong Kong\n
+/(included in the semi-plenary session at ISIT 2015)/
+
+- /Sudeep Kamath/, [http://www.ee.washington.edu/people/faculty/kannan_sreeram/ Sreeram Kannan], [http://www.ifp.illinois.edu/~pramodv/ Pramod Viswanath]\n
+*Network Capacity Under Traffic Symmetry: Wireline and Wireless Networks* [http://www.princeton.edu/~sukamath/papers/traffic_symmetry_KamathKannanViswanath.pdf \[pdf\]]\n
+IEEE Transactions on Information Theory, vol. 60, no. 9, pp. 5457 - 5469, September 2014.
+
+- /Sudeep Kamath/, [http://www.ee.washington.edu/people/faculty/kannan_sreeram/ Sreeram Kannan], [http://www.ifp.illinois.edu/~pramodv/ Pramod Viswanath]\n
+*Wireless Networks with Symmetric Demands* [http://www.princeton.edu/~sukamath/papers/wireless_symmetric_demands_KamathKannanViswanath.pdf \[pdf\]]\n
+International Symposium on Information Theory 2012, MIT, Cambridge, MA.
+
+- /Sudeep Kamath/, [http://www.ifp.illinois.edu/~pramodv/ Pramod Viswanath]\n
+*An information-theoretic meta-theorem on edge-cut bounds* [http://www.princeton.edu/~sukamath/papers/information_theoretic_meta_theorem_KamathViswanath.pdf \[pdf\]]\n
+International Symposium on Information Theory 2012, MIT, Cambridge, MA.
+
+
+== Large-scale wireless sensor networks
+
+- /Sudeep Kamath/, [http://www.ee.iitb.ac.in/~dmanju/ D. Manjunath], [https://ece.uwaterloo.ca/~mazum/ Ravi Mazumdar]\n
+*On Distributed Function Computation in Structure-Free Random Wireless Networks* [http://www.princeton.edu/~sukamath/papers/distributed_function_computation_KamathManjunathMazumdar.pdf \[pdf\]]\n
+IEEE Transactions on Information Theory, vol. 60, no. 1, pp. 432 - 442, January 2014.
+
+
+- /Sudeep Kamath/, [http://ect.bell-labs.com/who/ursn/index.shtml Urs Niesen], [https://sites.google.com/site/pgupta71/ Piyush Gupta]\n
+*The capacity per unit energy of large wireless networks* [http://www.princeton.edu/~sukamath/papers/energy_KamathNiesenGupta.pdf \[pdf\]]\n
+International Symposium on Information Theory 2011, St. Petersburg, Russia.
+
+
+- /Sudeep Kamath/, [http://www.ee.iitb.ac.in/~dmanju/ D. Manjunath]\n
+*On Distributed Function Computation in Structure-Free Random Networks* [http://www.princeton.edu/~sukamath/papers/distributed_function_computation_KamathManjunath.pdf \[pdf\]]\n
+International Symposium on Information Theory 2008, Toronto, Canada.
+
+

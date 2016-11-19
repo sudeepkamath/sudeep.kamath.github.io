@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{index.html}, analytics{UA-59719970-1}
+= Sudeep Kamath
+
+~~~
+{}{img_left}{http://www.princeton.edu/~sukamath/pics/ocbd.jpg}{}{260}{260}{}
+Postdoctoral Researcher\n
+[http://www.ee.princeton.edu/ EE Department]\n
+[http://www.princeton.edu/ Princeton University]\n
+== Contact
+C326, Engineering Quadrangle\n
+e-mail: $\mbox{sukamath AT princeton DOT edu}$
+~~~
+
+
+== About me
+I am a postdoctoral researcher with the [http://www.soihub.org/ Center for Science of Information].
+
+My research interests lie in information theory and
+learning.
+
+My Curriculum Vitae can be found
+[http://www.princeton.edu/~sukamath/papers/CV_Kamath.pdf here].
+
+#I am a [http://www.soihub.org/ Center for Science of Information]
+#postdoctoral researcher jointly hosted at [http://www.princeton.edu/Princeton University] \& [http://www.purdue.edu/ Purdue University].\n
+#Previously, I was an [http://ita.ucsd.edu/ ITA] postdoctoral researcher at [http://ucsd.edu/ UC San Diego].\n
+#I completed my Ph.D. from the [http://eecs.berkeley.edu/ EECS department] at [http://berkeley.edu/ UC Berkeley], where I was co-advised by [https://web.stanford.edu/~dntse/ David Tse] and  [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam].\n
+#Before joining UC Berkeley, I completed my undergraduate studies from the [https://www.ee.iitb.ac.in/ Electrical Engineering Department] at [http://www.iitb.ac.in/ IIT Bombay].\n
+#My [http://www.princeton.edu/~sukamath/papers/CV_Kamath.pdf Curriculum Vitae].\n
+#My [https://scholar.google.com/citations?user=UZK1i4EAAAAJ&hl=en&oi=ao Google Scholar profile].\n
+#I was a technical co-chair at [http://ita.ucsd.edu/workshop/14/organization ITA 2014], and was on the technical program committees for [http://www.netcod2015.org/ NetCod 2015] and [http://www.itw2015.org/ ITW 2015].
+
+=== Recent update
+
+Presented a tutorial on Concentration of Measure at the [http://csnexus.info/tutorialabout.html CIRM school] in Marseille, France\n
+from January 25-29, 2016. The slides are here: [http://www.princeton.edu/~sukamath/papers/concentration/Kamath_day1.pdf Day 1], [http://www.princeton.edu/~sukamath/papers/concentration/Kamath_day2.pdf Day 2], [http://www.princeton.edu/~sukamath/papers/concentration/Kamath_day3.pdf Day 3], [http://www.princeton.edu/~sukamath/papers/concentration/Kamath_day4.pdf Day 4].\n
+\n
+
+
+(Please note that a substantial part of the presentations were done on the board and that\n
+some of that material may not be present in the slides. Talk videos are available [https://www.youtube.com/playlist?list=PLBNfdZUo7fyovZU5wZIaw-KqkivwQeUH5 here].)
+
+== Selected publications
+
+- /Sudeep Kamath/, [https://www.princeton.edu/~verdu/ Sergio {{Verd&uacute;}}]\n
+*Estimation of entropy rate and {{R&eacute;nyi}} entropy rate for Markov chains* [http://www.princeton.edu/~sukamath/papers/entropy_rate_KamathVerdu.pdf \[pdf\]]\n
+(submitted to the International Symposium on Information Theory 2016)
+
+- /Sudeep Kamath/, [http://alon.ucsd.edu/ Alon Orlitsky], [http://simons.berkeley.edu/people/dheeraj-pichapati Dheeraj Pichapati], [http://acsweb.ucsd.edu/~asuresh/ Ananda Theertha Suresh]\n
+*On Learning Distributions from their Samples* [http://www.princeton.edu/~sukamath/papers/learning_dist_KOPS15.pdf \[pdf\]]\n
+Conference on Learning Theory 2015, Paris, France.
+
+
+- [http://www.eecs.berkeley.edu/~ananth/ Venkat Anantharam], [http://sharif.edu/~aminzadeh/ Amin Aminzadeh Gohari], /Sudeep Kamath/, [http://chandra.ie.cuhk.edu.hk/ Chandra Nair]\n
+*On Hypercontractivity and a Data Processing Inequality* [http://www.princeton.edu/~sukamath/papers/hypercontractivity_data_processing_AGKN2014.pdf \[pdf\]]\n
+International Symposium on Information Theory 2014, Honolulu, Hawaii.
+
+- /Sudeep Kamath/, [http://www.ee.washington.edu/people/faculty/kannan_sreeram/ Sreeram Kannan], [http://www.ifp.illinois.edu/~pramodv/ Pramod Viswanath]\n
+*Network Capacity Under Traffic Symmetry: Wireline and Wireless Networks* [http://www.princeton.edu/~sukamath/papers/traffic_symmetry_KamathKannanViswanath.pdf \[pdf\]]\n
+IEEE Transactions on Information Theory, vol. 60, no. 9, pp. 5457 - 5469, September 2014.
+
+- /Sudeep Kamath/, [http://circuit.ucsd.edu/~yhk/ Young-Han Kim]\n
+*Chop and Roll: Improving the Cutset Bound* [http://www.princeton.edu/~sukamath/papers/improving_cutset_KamathKim.pdf \[pdf\]]\n
+Proceedings of the 52nd Annual Allerton Conference on Communications, Control and Computing 2014, Monticello, Illinois.
+
+- [http://chekuri.cs.illinois.edu/ Chandra Chekuri], /Sudeep Kamath/, [http://www.ee.washington.edu/people/faculty/kannan_sreeram/ Sreeram Kannan], [http://www.ifp.illinois.edu/~pramodv/ Pramod Viswanath]\n
+*Delay-constrained unicast and the triangle-cast problem* [http://www.princeton.edu/~sukamath/papers/delay_constrained_unicast_CKKV15.pdf \[pdf\]]\n
+International Symposium on Information Theory 2015, Hong Kong
+
+- /Sudeep Kamath/, [http://chandra.ie.cuhk.edu.hk/ Chandra Nair]\n
+*The strong data processing constant for sums of i.i.d. random variables* [http://www.princeton.edu/~sukamath/papers/s_star_iid_KamathNair.pdf \[pdf\]]\n
+International Symposium on Information Theory 2015, Hong Kong
+
+#includeraw{stat_counter_code.html}
